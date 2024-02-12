@@ -7,3 +7,5 @@ Welcome to my GitHub profile! I'm Johnny Cheng, a dedicated software developer w
 📚 When I'm not immersed in coding, you'll find me delving into textbooks, and staying updated on the latest advancements in technology.
 
 🌱 Committed to lifelong learning, I'm always eager to explore new opportunities for growth and collaboration. Feel free to explore my projects and contributions as I continue to expand my skills and make meaningful contributions to the world of software development.
+
+![Software Development Methodologies](https://www.epsoftinc.com/wp-content/uploads/2020/04/EPSoft-AI-1.jpg.webp)
